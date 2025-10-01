@@ -110,8 +110,7 @@ Developed by **Najib Alejandro Loera**
 
 ## 🏷 Badges
 
-```
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange?logo=swift)
 ![iOS](https://img.shields.io/badge/iOS-16%2B-blue?logo=apple)
 ![Xcode](https://img.shields.io/badge/Xcode-15%2B-lightblue?logo=xcode)
-```
+
